@@ -1,5 +1,7 @@
 allow_embedding: false
-package_name: Custom_HTML_1
-name: Custom HTML 1
+package_name: Events
+db_schema: []
+name: Events
+renamed: true
 runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox}
 services: []
