@@ -19,6 +19,9 @@ There are two methods to install this module within your own application:
   * In your anvil application, create a new module in the client code section and name it 'events'
   * Copy the entire content of `client_code/events.py` from this repository into your 'events' module
   
+ ### Cookiecutter Template
+ If you are starting a new application, you can also use this [cookiecutter template](https://github.com/meatballs/anvil-cookiecutter) which will automatically include this module using the direct inclusion method above.
+
 ## Usage
 
 You can clone a demonstration of this module in use from:
