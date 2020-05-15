@@ -11,7 +11,7 @@ There are two methods to install this module within your own application:
 
     [<img src="https://anvil.works/img/forum/copy-app.png" height='40px'>](https://anvil.works/build#clone:VJKO42XKR64QGTTO=CGGP22MNKJPJMNEI6UAEYUBJ)
   
-  * At anvil, open the app in which you'd like to include this module and, its settings menu, select 'Events',
+  * At anvil, open the app in which you'd like to include this module, from its settings menu, select 'Events',
     and select your new cloned app in the dropdown.
 
 ### 2. By Direct Inclusion
